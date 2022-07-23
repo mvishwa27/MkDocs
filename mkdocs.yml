@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: https://mvishwa27.github.io/MkDocs/
+site_url: https://github.com/mvishwa27/MkDocs
 nav:
    - Home: index.md
    - About: about.md
